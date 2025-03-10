@@ -1,0 +1,1 @@
+I'm Kavin, a first-year B.Tech CSE student at Amrita Vishwa Vidyapeetham, currently in my second semester. I have a decent grasp of Java, Python, HTML, and CSS. In my first semester, I scored a CGPA of 8.33. Still learning and improving every day!
