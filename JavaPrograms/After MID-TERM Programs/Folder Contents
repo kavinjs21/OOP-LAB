@@ -1,0 +1,58 @@
+	INHERITANCE	
+4.	SINGLE INHERITANCE PROGRAMS	
+	4.a)Animal Barks Program
+	4.b)Vehicle Constructor Program
+5.	MULTILEVEL INHERITANCE PROGRAMS	
+
+
+		5.a)Bank Program
+		5.b)E-Commerce Program
+	6.	HIERARCHICAL INHERITANCE PROGRAMS		
+		6.a)University System	
+		6.b)Vehicle System	
+	7.	HYBRID INHERITANCE PROGRAMS		
+		7.a) Student Performance System	
+		7.b) Smart Home System
+		POLYMORPHISM		
+	8.	CONSTRUCTOR PROGRAMS		
+		8.a) Student Info	
+	9.	CONSTRUCTOR OVERLOADING PROGRAMS		
+		9.a)Area of Rectangle CalC	
+	10.	METHOD OVERLOADING PROGRAMS		
+		10.a) Simple Addition
+		10.b) Info Display
+	11.	METHOD OVERRIDING PROGRAMS		
+		11.a)E-Ticket Booker
+		11.b)Bank Transaction System
+		ABSTRACTION		
+	12.	INTERFACE PROGRAMS		
+		12.a))E-Commerce Payment Interface
+		12.b))Smart Device Control Interface
+		12.c)Document Export Interface
+		12.d)Vehicle Interface
+	13.	ABSTRACT CLASS PROGRAMS		
+		13.a)Online Payment System
+		13.b)College Admission System
+		13.c)Employee Payroll System
+		13.d)Shape Area Calculator
+		ENCAPSULATION		
+	14.	ENCAPSULATION PROGRAMS		
+		14.a)Bank Account System
+		14.b)Student Report System	
+		14.c)Login System
+		14.d)Temperature Conversion
+	15.	PACKAGES PROGRAMS		
+		15.a)User Defined Packages
+		15.b)User Defined Packages
+		15.c)Built – in Package(3 Packages)
+		15.d)Built – in Package(3 Packages)
+	16.	EXCEPTION HANDLING PROGRAMS		
+		16.a)Java program that throws an exception and catch it using a try-catch block
+		16.b) Java program to create a method that takes an integer as a parameter and throws an exception if the number is odd
+		16.c)Java program to create a method that takes a string as input and throws an exception if the string does not contain vowel
+		16.d)Java program that reads a list of integers from the user and throws an exception if any numbers are duplicates
+	17.	FILE HANDLING PROGRAMS		
+		17.a)Java - Print File Content, Display File	
+		17.b)Delete file using java program	
+		17.c)Read file line by line using java
+		17.d)Java program to append text/string in a file
