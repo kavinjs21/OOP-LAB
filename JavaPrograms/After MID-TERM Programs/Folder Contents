@@ -1,10 +1,8 @@
-	INHERITANCE	
-4.	SINGLE INHERITANCE PROGRAMS	
-	4.a)Animal Barks Program
-	4.b)Vehicle Constructor Program
-5.	MULTILEVEL INHERITANCE PROGRAMS	
-
-
+INHERITANCE	
+	4.	SINGLE INHERITANCE PROGRAMS	
+		4.a)Animal Barks Program
+		4.b)Vehicle Constructor Program
+	5.	MULTILEVEL INHERITANCE PROGRAMS	
 		5.a)Bank Program
 		5.b)E-Commerce Program
 	6.	HIERARCHICAL INHERITANCE PROGRAMS		
@@ -13,7 +11,7 @@
 	7.	HYBRID INHERITANCE PROGRAMS		
 		7.a) Student Performance System	
 		7.b) Smart Home System
-		POLYMORPHISM		
+POLYMORPHISM		
 	8.	CONSTRUCTOR PROGRAMS		
 		8.a) Student Info	
 	9.	CONSTRUCTOR OVERLOADING PROGRAMS		
@@ -24,7 +22,7 @@
 	11.	METHOD OVERRIDING PROGRAMS		
 		11.a)E-Ticket Booker
 		11.b)Bank Transaction System
-		ABSTRACTION		
+ABSTRACTION		
 	12.	INTERFACE PROGRAMS		
 		12.a))E-Commerce Payment Interface
 		12.b))Smart Device Control Interface
@@ -35,7 +33,7 @@
 		13.b)College Admission System
 		13.c)Employee Payroll System
 		13.d)Shape Area Calculator
-		ENCAPSULATION		
+ENCAPSULATION		
 	14.	ENCAPSULATION PROGRAMS		
 		14.a)Bank Account System
 		14.b)Student Report System	
