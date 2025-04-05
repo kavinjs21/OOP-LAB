@@ -9,13 +9,3 @@ ENCAPSULATION
 		15.b)User Defined Packages
 		15.c)Built – in Package(3 Packages)
 		15.d)Built – in Package(3 Packages)
-	16.	EXCEPTION HANDLING PROGRAMS		
-		16.a)Java program that throws an exception and catch it using a try-catch block
-		16.b) Java program to create a method that takes an integer as a parameter and throws an exception if the number is odd
-		16.c)Java program to create a method that takes a string as input and throws an exception if the string does not contain vowel
-		16.d)Java program that reads a list of integers from the user and throws an exception if any numbers are duplicates
-	17.	FILE HANDLING PROGRAMS		
-		17.a)Java - Print File Content, Display File	
-		17.b)Delete file using java program	
-		17.c)Read file line by line using java
-		17.d)Java program to append text/string in a file
